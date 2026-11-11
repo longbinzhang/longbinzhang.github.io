@@ -41,15 +41,15 @@ window.SITE_CONTENT = {
   "projects": [
     {
       "title": "2027.01–2030.12 | Human-in-the-Loop Adaptive Control of Orthopedic Rehabilitation Robots Integrating Biomechanical Sensing",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), General Program, Grant No. 62673192."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China, General Program, Grant No. 62673192."
     },
     {
       "title": "2026.05–2029.04 | Development of an Integrated Stroke Rehabilitation System Based on an EEG Decoding Foundation Model",
-      "details": "Principal Investigator (PI), Key Research and Development Program of Hunan Province, Grant No. 2026QK3021."
+      "details": "Principal Investigator (PI), the Science and Technology Program of Hunan Province, Grant No. 2026QK3021."
     },
     {
       "title": "2026.01–2028.12 | Mechanism- and Data-Driven Intelligent Wearable Rehabilitation System for Patients with Knee Osteoarthritis",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), Young Scientists Fund (Category C), Grant No. 62503165."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China, Young Scientists Fund, Grant No. 62503165."
     },
     {
       "title": "2025.08–Present | AI-Based Intelligent Orthopedic Rehabilitation Robotic System Development and Clinical Translation",
