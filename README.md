@@ -5,6 +5,9 @@
 2. 点击 `content.js` → 右上角铅笔 **Edit this file**。
 3. 修改相应文字。论文在 `publications`，项目在 `projects`，专利在 `patents`，奖励在 `awards`，研究方向在 `research_interests`。
 4. 右上角 **Commit changes** → 确认保存。GitHub Pages 会自动发布更新，通常需等待一小段时间。
+若发现没有更新，可以:
+1.打开仓库的 Actions 页面，查看最近一次 Pages 部署是否显示绿色成功标记
+2. 打开网页，按 Mac 的 Command + Shift + R（Windows 为 Ctrl + Shift + R），强制刷新缓存
 
 ## 新增论文或项目
 在相应数组里复制一条记录，修改 `title` 和 `details`。例如：
