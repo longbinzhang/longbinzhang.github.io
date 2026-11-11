@@ -35,7 +35,7 @@ window.SITE_CONTENT = {
     },
     {
       "title": "Estimation of Joint Torque by EMG-Driven Neuromusculoskeletal Models and LSTM Networks",
-      "details": "L. Zhang et al. · IEEE Transactions on Neural Systems and Rehabilitation Engineering , 31, 3722–3731, 2023."
+      "details": "L. Zhang et al. · IEEE Transactions on Neural Systems and Rehabilitation Engineering, 31, 3722–3731, 2023."
     }
   ],
   "projects": [
@@ -57,7 +57,7 @@ window.SITE_CONTENT = {
     },
     {
       "title": "2025.01–2027.12 | Biomechanics-Based Intelligent Wearable Technologies",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), Excellent Young Scientists Fund."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China, Excellent Young Scientists Fund."
     },
     {
       "title": "2022.06–2023.06 | Neuromusculoskeletal Model-Informed Artificial Neural Networks for Real-Time Joint Torque Prediction",
@@ -69,7 +69,7 @@ window.SITE_CONTENT = {
     },
     {
       "title": "2020.06–2021.06 | Design and Control of a Real-Time EMG-Driven Wearable Knee Assistive Device",
-      "details": "Principal Investigator (PI), Biomechanics Modeling and Experimentation Center, KTH Royal Institute of Technology, Sweden, Project No. 770024."
+      "details": "Principal Investigator (PI), BioMEx center, KTH Royal Institute of Technology, Sweden, Project No. 770024."
     },
     {
       "title": "2019.01–2024.01 | BADASS: BiomechAnics in Motion Disorders and ASSistance",
