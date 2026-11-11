@@ -41,27 +41,27 @@ window.SITE_CONTENT = {
   "projects": [
     {
       "title": "2027.01–2030.12 | Human-in-the-Loop Adaptive Control of Orthopedic Rehabilitation Robots Integrating Biomechanical Sensing",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), General Program, Grant No. 62673192. Funding: RMB 500,000."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), General Program, Grant No. 62673192."
     },
     {
       "title": "2026.05–2029.04 | Development of an Integrated Stroke Rehabilitation System Based on an EEG Decoding Foundation Model",
-      "details": "Principal Investigator (PI), Key Research and Development Program of Hunan Province, Grant No. 2026QK3021. Funding: RMB 2,700,000."
+      "details": "Principal Investigator (PI), Key Research and Development Program of Hunan Province, Grant No. 2026QK3021."
     },
     {
       "title": "2026.01–2028.12 | Mechanism- and Data-Driven Intelligent Wearable Rehabilitation System for Patients with Knee Osteoarthritis",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), Young Scientists Fund (Category C), Grant No. 62503165. Funding: RMB 300,000."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), Young Scientists Fund (Category C), Grant No. 62503165."
     },
     {
       "title": "2025.08–Present | AI-Based Intelligent Orthopedic Rehabilitation Robotic System Development and Clinical Translation",
-      "details": "Co-Principal Investigator (Co-PI), Changsha Municipal Health Commission, Regional Medical–Academic–Industry Collaborative Research Program. Total project funding: RMB 2,300,000."
+      "details": "Co-Principal Investigator (Co-PI), Changsha Municipal Health Commission, Regional Medical–Academic–Industry Collaborative Research Program."
     },
     {
       "title": "2025.01–2027.12 | Biomechanics-Based Intelligent Wearable Technologies",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), Excellent Young Scientists Fund (Overseas). Funding: RMB 2,000,000."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), Excellent Young Scientists Fund."
     },
     {
       "title": "2022.06–2023.06 | Neuromusculoskeletal Model-Informed Artificial Neural Networks for Real-Time Joint Torque Prediction",
-      "details": "Principal Investigator (PI), Promobilia Foundation, Sweden, Grant No. A22078. Funding: SEK 372,200."
+      "details": "Principal Investigator (PI), Promobilia Foundation, Sweden, Grant No. A22078."
     },
     {
       "title": "2021.06–2025.02 | Big Data-Driven Research on Human Mobility and Balance",
@@ -69,27 +69,27 @@ window.SITE_CONTENT = {
     },
     {
       "title": "2020.06–2021.06 | Design and Control of a Real-Time EMG-Driven Wearable Knee Assistive Device",
-      "details": "Principal Investigator (PI), Biomechanics Modeling and Experimentation Center, KTH Royal Institute of Technology, Sweden, Project No. 770024. Funding: SEK 55,000."
+      "details": "Principal Investigator (PI), Biomechanics Modeling and Experimentation Center, KTH Royal Institute of Technology, Sweden, Project No. 770024."
     },
     {
       "title": "2019.01–2024.01 | BADASS: BiomechAnics in Motion Disorders and ASSistance",
-      "details": "Project Participant, Swedish Research Council, Sweden, Grant No. 2018-00750. Total project funding: SEK 12,000,000."
+      "details": "Project Participant, Swedish Research Council, Sweden, Grant No. 2018-00750."
     },
     {
       "title": "2019.01–2023.01 | Multiscale and Multimodal Biomechanical Research for Persons with Motion Disorders",
-      "details": "Project Participant, Promobilia Foundation, Sweden, Grant No. 18200. Total project funding: SEK 11,500,000."
+      "details": "Project Participant, Promobilia Foundation, Sweden, Grant No. 18200."
     },
     {
       "title": "2018.12–2019.12 | Quantitative Assessment of Muscle Architecture and Stiffness Following Botulinum Toxin Injections in Individuals with Post-Stroke Hemiparesis",
-      "details": "Project Participant, Promobilia Foundation, Sweden, Reference No. 18014. Total project funding: SEK 350,000."
+      "details": "Project Participant, Promobilia Foundation, Sweden, Reference No. 18014."
     },
     {
       "title": "2018.01–2022.01 | INC OME: An Integrated Neuromusculoskeletal Modeling Framework",
-      "details": "Project Participant, Swedish Research Council, Sweden, Grant No. 2018-04902. Total project funding: SEK 3,600,000."
+      "details": "Project Participant, Swedish Research Council, Sweden, Grant No. 2018-04902."
     },
     {
       "title": "2016.07–2019.06 | Development of a Wearable Bionic Leg with Elastic Actuators",
-      "details": "Project Participant, Ministry of Science and Technology of China, Project No. 2016A020220003. Total project funding: RMB 500,000."
+      "details": "Project Participant, Ministry of Science and Technology of China, Project No. 2016A020220003."
     }
   ],
   "patents": [
