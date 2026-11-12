@@ -5,43 +5,70 @@ window.SITE_CONTENT = {
     "name": "Longbin Zhang, Ph.D.",
     "position": "Professor · School of Artificial Intelligence and Robotics",
     "institution": "Hunan University, China",
-    "tagline": "Human movement biomechanics · Intelligent wearable robotics · Rehabilitation engineering",
+    "tagline": "Wearable and rehabilitation robotics · Intelligent sensing and control · Human–robot interaction",
     "email": "longbin@hnu.edu.cn",
     "scholar": "https://scholar.google.com/citations?user=zfHrGd0AAAAJ",
     "researchgate": "https://www.researchgate.net/profile/Longbin-Zhang-2",
     "photo": "assets/profile.jpg",
     "cv": "assets/CV_Longbin_Zhang.pdf"
   },
-  "about": "I am a Professor at the School of Artificial Intelligence and Robotics, Hunan University. I received my Ph.D. in Engineering Mechanics (Biomechanics) from KTH Royal Institute of Technology, Sweden, and subsequently conducted postdoctoral research at KTH and Nanyang Technological University, Singapore. My research develops computational and experimental methods for understanding human movement and advancing intelligent wearable and rehabilitation robotic systems.",
+  "about": "I am a Professor at the School of Artificial Intelligence and Robotics, Hunan University. I received my Ph.D. in Engineering Mechanics from KTH Royal Institute of Technology, Sweden, and subsequently conducted postdoctoral research at KTH and Nanyang Technological University, Singapore. My research develops computational and experimental methods for understanding human movement and advancing intelligent wearable and rehabilitation robotic systems.",
   "research_interests": [
-    "Human–Robot Interaction",
     "Wearable and Rehabilitation Robotics",
-    "Human Movement Analysis",
-    "Neuromusculoskeletal Modeling",
-    "AI and Machine Learning",
+    "Intelligent Mechatronic Systems",
+    "Human–Robot Interaction",
+    "Robot Sensing and Control",
     "Multimodal Sensor Fusion",
-    "Modeling and Simulation",
-    "Movement Intention Recognition",
-    "Personalized Assistive Control"
-  ],
+    "Biomechanics-Informed Modeling and Control",
+    "Human Motion and Intention Estimation",
+    "AI-Based Personalized Assistive Control"
+],
   "publications": [
     {
-      "title": "Towards Clinical Application of Enhanced Timed Up and Go with Markerless Motion Capture and Machine Learning for Balance and Gait Assessment",
-      "details": "L. Zhang et al. · IEEE Journal of Biomedical and Health Informatics , 30(8), 7072–7081, 2026."
+        "title": "Physics-Informed Multimodal Learning for Wearable Estimation of Ground Reaction Forces and Lower-Limb Joint Moments",
+        "details": "Z. Li, Z. Wan, X. Fu, S. Wang, T. Zhang, H. Zhang, L. Zhang*, X. Zhu*, and R. Wang* · IEEE Transactions on Neural Systems and Rehabilitation Engineering · 2026 · Under Review"
     },
     {
-      "title": "EMG-Constrained and Ultrasound-Informed Muscle-Tendon Parameter Estimation in Post-Stroke Hemiparesis",
-      "details": "L. Zhang et al. · IEEE Transactions on Biomedical Engineering , 71(6), 1798–1809, 2024."
+        "title": "Human-in-the-Loop Control of a Wearable Lower Limb Exoskeleton for Stable Dynamic Walking",
+        "details": "Z. Li, K. Zhao, L. Zhang, X. Wu, T. Zhang, Q. Li, X. Li, and C.-Y. Su · IEEE/ASME Transactions on Mechatronics · 26(5), 2700–2711"
     },
     {
-      "title": "Estimation of Joint Torque by EMG-Driven Neuromusculoskeletal Models and LSTM Networks",
-      "details": "L. Zhang et al. · IEEE Transactions on Neural Systems and Rehabilitation Engineering, 31, 3722–3731, 2023."
+        "title": "Detecting Heel Strike and Toe-Off Events Using Kinematic Methods and LSTM Models",
+        "details": "L. Zhang, Z. Li*, X. Fu, Y. Xie, Z. Liu, X. Yan, S. Wang, T. Zhang, H. Zhang, K. Yang, T.-L. Wu, P. Jatesiktat, A. Sidarta, and W. T. Ang · IEEE ICARM · 2026 · Best Presentation Award"
+    },
+    {
+        "title": "EMG-Constrained and Ultrasound-Informed Muscle-Tendon Parameter Estimation in Post-Stroke Hemiparesis",
+        "details": "L. Zhang, T. V. Wouwe, S. Yan, and R. Wang · IEEE Transactions on Biomedical Engineering · 2024"
+    },
+    {
+        "title": "Estimation of Joint Torque by EMG-Driven Neuromusculoskeletal Models and LSTM Networks",
+        "details": "L. Zhang, D. Soselia, R. Wang, and E. M. Gutierrez-Farewik · IEEE Transactions on Neural Systems and Rehabilitation Engineering · 31, 3722–3731 · 2023"
+    },
+    {
+        "title": "Neuromusculoskeletal Model-Informed Machine Learning-Based Control of a Knee Exoskeleton with Uncertainties Quantification",
+        "details": "L. Zhang, X. Zhang, X. Zhu, R. Wang, and E. M. Gutierrez-Farewik · Frontiers in Neuroscience · 17 · 2023"
+    },
+    {
+        "title": "Ankle Joint Torque Prediction Using an NMS Solver Informed-ANN Model and Transfer Learning",
+        "details": "L. Zhang, X. Zhu, E. M. Gutierrez-Farewik, and R. Wang · IEEE Journal of Biomedical and Health Informatics · 26(12), 5895–5906 · 2022"
+    },
+    {
+        "title": "Lower-Limb Joint Torque Prediction Using LSTM Neural Networks and Transfer Learning",
+        "details": "L. Zhang, D. Soselia, R. Wang, and E. M. Gutierrez-Farewik · IEEE Transactions on Neural Systems and Rehabilitation Engineering · 30, 600–609 · 2022"
+    },
+    {
+        "title": "Ankle Joint Torque Estimation Using an EMG-Driven Neuromusculoskeletal Model and an Artificial Neural Network Model",
+        "details": "L. Zhang, Z. Li, Y. Hu, C. Smith, E. M. Gutierrez-Farewik, and R. Wang · IEEE Transactions on Automation Science and Engineering · 18(2), 564–573 · 2021"
+    },
+    {
+        "title": "Adaptive Neural Network Based Variable Stiffness Control of Uncertain Robotic Systems Using Disturbance Observer",
+        "details": "L. Zhang, Z. Li, and C. Yang · IEEE Transactions on Industrial Electronics · 64(3), 2236–2245 · 2017"
     }
-  ],
+],
   "projects": [
     {
       "title": "2027.01–2030.12 | Human-in-the-Loop Adaptive Control of Orthopedic Rehabilitation Robots Integrating Biomechanical Sensing",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China, General Program, Grant No. 62673192."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), General Program, Grant No. 62673192."
     },
     {
       "title": "2026.05–2029.04 | Development of an Integrated Stroke Rehabilitation System Based on an EEG Decoding Foundation Model",
@@ -49,7 +76,7 @@ window.SITE_CONTENT = {
     },
     {
       "title": "2026.01–2028.12 | Mechanism- and Data-Driven Intelligent Wearable Rehabilitation System for Patients with Knee Osteoarthritis",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China, Young Scientists Fund, Grant No. 62503165."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), Young Scientists Fund, Grant No. 62503165."
     },
     {
       "title": "2025.08–Present | AI-Based Intelligent Orthopedic Rehabilitation Robotic System Development and Clinical Translation",
@@ -57,7 +84,7 @@ window.SITE_CONTENT = {
     },
     {
       "title": "2025.01–2027.12 | Biomechanics-Based Intelligent Wearable Technologies",
-      "details": "Principal Investigator (PI), National Natural Science Foundation of China, Excellent Young Scientists Fund."
+      "details": "Principal Investigator (PI), National Natural Science Foundation of China (NSFC), Excellent Young Scientists Fund."
     },
     {
       "title": "2022.06–2023.06 | Neuromusculoskeletal Model-Informed Artificial Neural Networks for Real-Time Joint Torque Prediction",
@@ -69,7 +96,7 @@ window.SITE_CONTENT = {
     },
     {
       "title": "2020.06–2021.06 | Design and Control of a Real-Time EMG-Driven Wearable Knee Assistive Device",
-      "details": "Principal Investigator (PI), BioMEx center, KTH Royal Institute of Technology, Sweden, Project No. 770024."
+      "details": "Principal Investigator (PI), BioMEx center, KTH Royal Institute of Technology, Sweden, Project No. 770024."
     },
     {
       "title": "2019.01–2024.01 | BADASS: BiomechAnics in Motion Disorders and ASSistance",
@@ -95,7 +122,7 @@ window.SITE_CONTENT = {
   "patents": [
     {
       "title": "Automated Assessment of Post-Stroke Upper-Limb Function Using Monocular Vision and Multi-Model Fusion",
-      "details": "L. Zhang, Y. Xie, and Z. Li· Chinese Patent Application No. 202611010771.8 · 2026 (Pending)"
+      "details": "Y. Xie, Z. Li, and L. Zhang · Chinese Patent Application No. 202611010771.8 · 2026 (Pending)"
     },
     {
       "title": "Multimodal Dental Diagnosis and Treatment Data Management System and Method",
