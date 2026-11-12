@@ -95,7 +95,7 @@ window.SITE_CONTENT = {
   "patents": [
     {
       "title": "Automated Assessment of Post-Stroke Upper-Limb Function Using Monocular Vision and Multi-Model Fusion",
-      "details": "Y. Xie, Z. Li, and L. Zhang · Chinese Patent Application No. 202611010771.8 · 2026 (Pending)"
+      "details": "L. Zhang, Y. Xie, and Z. Li· Chinese Patent Application No. 202611010771.8 · 2026 (Pending)"
     },
     {
       "title": "Multimodal Dental Diagnosis and Treatment Data Management System and Method",
